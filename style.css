@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+#title{
+    background-color: #ffffe6;
+    padding: 5ex;
+    overflow: hidden;
+    margin: 0;
+}
+
+hr {
+    background-color: black;
+    margin: 0;
+    height: 2px;
+}
